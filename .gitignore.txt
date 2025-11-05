@@ -12,3 +12,6 @@ __pycache__/
 
 # Fichiers temporaires
 *.log
+# Dossier contenant les données
+data/
+*.csv
